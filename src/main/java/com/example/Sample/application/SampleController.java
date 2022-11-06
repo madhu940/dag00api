@@ -42,6 +42,7 @@ public class SampleController {
 //			   JSONObject labobj=labs.getJSONObject(i);
 //			   if (labobj.getString("location").equals("Main Hospital Lab")) {
 //			   location=labobj.getString("location");
+		  System.out.println("location");
 //	   }}
 		  
 		   JSONArray medications=json.getJSONArray("medications");
