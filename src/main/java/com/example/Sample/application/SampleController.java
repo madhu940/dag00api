@@ -25,6 +25,7 @@ public class SampleController {
 		 String route="";
 		 String location="";
 		 String pillCount="";
+		 
 		   JSONObject json = new JSONObject(result);
 //		   JSONArray medications=json.getJSONArray("medications");
 //		   for(int i=0;i<medications.length();i++) {
