@@ -24,6 +24,7 @@ public class SampleController {
 		 System.out.println(result); 
 		 String route="";
 		 String location="";
+		 System.out.println("madhu");
 		 String pillCount="";
 		 
 		   JSONObject json = new JSONObject(result);
